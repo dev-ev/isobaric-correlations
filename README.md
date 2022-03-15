@@ -1,7 +1,7 @@
 # isobaric-correlations
 Exploring correlations in an isobaric labeling mass spectrometry-based proteomic data set.
 
-Developed by Egor Vorontsov with educational purposes.
+Developed by Proteome Proteomicsson 101 with educational purposes.
 
 The notebook was created in Jupyter Lab on Ubuntu 20.04 running Python 3.8. The workflow depends on third-party libraries that can be installed via pip:<br>
 pip install scipy numpy pandas matplotlib seaborn
